@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"os"
 
-	"random-udp-sender/internal/app"
+	"wg-fake/internal/app"
 )
 
 const (

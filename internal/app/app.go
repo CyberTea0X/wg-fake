@@ -3,7 +3,7 @@ package app
 import (
 	"context"
 
-	"random-udp-sender/internal/sender"
+	"wg-fake/internal/sender"
 )
 
 type wizard interface {
