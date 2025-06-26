@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"os"
 
-	"wg-fake/internal/app"
+	"github.com/lastbyte32/wg-fake/internal/app"
 )
 
 const (

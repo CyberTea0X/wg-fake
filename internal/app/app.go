@@ -3,7 +3,7 @@ package app
 import (
 	"context"
 
-	"wg-fake/internal/sender"
+	"github.com/lastbyte32/wg-fake/internal/sender"
 )
 
 type wizard interface {

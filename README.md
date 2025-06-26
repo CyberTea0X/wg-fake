@@ -10,6 +10,10 @@ Pre-built binaries are available [here](https://github.com/lastbyte32/wg-fake/re
 
 ### Build from source
 
+```bash
+$ go install github.com/lastbyte32/wg-fake@latest
+```
+
 Run in the source directory:
 
 ```bash
